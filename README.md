@@ -9,5 +9,6 @@ We love open-source. OSS is at the heart of nitimis technologies. Here is a list
 1. [Git](https://www.youtube.com/watch?v=xuB1Id2Wxak) and [try git](https://try.github.io/)
 1. [HTML, CSS & JavaScript](https://www.w3schools.com/html/default.asp).
 1. [Python](https://learnpythonthehardway.org/python3/)
+1. [SQL](https://www.w3schools.com/sql/)
+1. [Flask](http://flask.pocoo.org/docs/1.0/quickstart/). Must learn HTML, CSS, JavaScript, Python & SQL before starting this.
 1. [Ember](https://www.emberjs.com/). Must learn HTML, CSS & JavaScript before starting this.
-1. [Django](https://www.djangoproject.com/start/). Must learn HTML, CSS, JavaScript & Python before starting this.
