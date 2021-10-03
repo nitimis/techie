@@ -7,11 +7,11 @@ We love open-source. OSS is at the heart of nitimis technologies. Here is a list
 1. [Linux Commands & Shell Scripting](https://www.youtube.com/watch?v=YHFzr-akOas&list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As)
 1. [Git](https://www.youtube.com/watch?v=xuB1Id2Wxak) and [try git](https://try.github.io/)
 1. [HTML, CSS & JavaScript](https://www.w3schools.com/html/default.asp) [Frontend]
+1. [React](https://reactjs.org). [Frontend] Must learn HTML, CSS & JavaScript before starting this
 1. [Python](https://learnpythonthehardway.org/python3/) [Backend]
 1. [SQL](https://www.w3schools.com/sql/) [Backend]
-1. [Django](https://www.djangoproject.com/). [Backend] Must learn HTML, Python & SQL before starting this.
-1. [React](https://reactjs.org). [Frontend] Must learn HTML, CSS & JavaScript before starting this.
-1. [GraphQL](https://graphql.org/).
+1. [Django](https://www.djangoproject.com/) [Backend] Must learn Python & SQL before starting this (& Optionally HTML if you use django templates).
+1. [GraphQL](https://graphql.org/)
 1. [Vim](http://www.vimgenius.com/). (Optional, but it is preferred. You can also use emacs, VS Code, or any other IDE of your choice)
 
 I have shared some useful links above. But not everybody likes to learn from the same source. Please search on youtube for whatever you want to learn and filter by playlist. There you can select a playlist / video of your liking. Also always remember that Google is your best bet for clearing doubts. 
